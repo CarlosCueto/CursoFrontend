@@ -3,15 +3,26 @@
 	{
 		"selected_items":
 		[
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"es\">\n	<head>\n		<meta charset=\"utf-8\"/>\n		<title>Puls</title>\n		<link rel=\"stylesheet\" href=\"css/puls.cc\"\\>\n	</head>\n\n	<body>\n		<header>\n			<figure class=\"logo\">\n				<img src=\"imagenes/logo.png\" alt=\"Puls\"/>\n			</figure>\n\n			<div class=\"titular\">\n				<h1 class=\"titulo\">Puls: Comunidad profesional</h1>\n\n				<a class=\"filtro\" href=\"#\">Responsive Design</a>\n\n				\n					Publicar\n				\n			</div>\n\n			<div class=\"usuario\">\n			</div>\n\n			\n		</header>\n\n		<nav>\n		</nav>\n\n		<section>\n			<article>\n			</article>\n		</section>\n\n		<footer>\n			<h3 class=\"powered\">\n				<strong>Powered by Platzi</strong>\n			</h3>\n\n			<span class=\"mejor\">\n				Mejorando.la 2013\n			</span>\n		</footer>\n	</body>\n</html>",
 			"file": "index.html",
+			"file_size": 67,
+			"file_write_time": 1385259264000000,
 			"settings":
 			{
-				"buffer_size": 67,
+				"buffer_size": 713,
 				"line_ending": "Unix"
 			}
 		}
@@ -19,15 +30,15 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 348.0,
 		"selected_items":
 		[
 			[
-				"con",
+				"control",
 				"Package Control: Install Package"
 			],
 			[
-				"control",
+				"con",
 				"Package Control: Install Package"
 			],
 			[
@@ -96,15 +107,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 67,
+						"buffer_size": 713,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								403,
+								395
 							]
 						],
 						"settings":
@@ -126,7 +137,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
@@ -176,6 +187,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 250.0,
 	"status_bar_visible": true
 }
